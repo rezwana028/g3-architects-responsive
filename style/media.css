@@ -82,6 +82,35 @@
 
     }
 
+    /* ---some-facts-section-- */
+
+    .some-facts-main {
+        padding: 20px 50px;
+        text-align: center;
+
+    }
+
+    .some-facts-content {
+        font-size: 2.25rem;
+    }
+
+    .facts-layout {
+        margin-top: 30px;
+        flex-direction: column;
+        gap: 30px;
+
+    }
+
+    .common {
+        height: 150px;
+        width: 150px;
+
+    }
+
+    .common h2 {
+        font-size: 2.25rem;
+    }
+
 
 
 
@@ -163,11 +192,50 @@
     .experience-img {
         width: 100%;
         height: 100%;
+        display: flex;
+        justify-content: center;
     }
 
-    .exp-10yrs {
-        padding: 38px;
 
+    .exp-10yrs {
+        padding: 30px;
+        position: relative;
+        bottom: 70px;
+        left: -40px;
+
+    }
+
+
+    /* ---some-facts-section-- */
+
+    .some-facts-main {
+        padding: 20px 50px;
+        text-align: center;
+
+    }
+
+    .some-facts-content {
+        font-size: 2.25rem;
+    }
+
+    .facts-layout {
+        margin: 40px 160px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+
+
+
+    }
+
+    .common {
+        height: 150px;
+        width: 150px;
+
+    }
+
+    .common h2 {
+        font-size: 2.25rem;
     }
 
 
@@ -177,7 +245,7 @@
 
 /* ---large-device--- */
 
-@media screen and (min-width:768px) and (max-width:1024px) {
+@media screen and (min-width:769px) and (max-width:1024px) {
 
     header {
         padding: 30px 60px;

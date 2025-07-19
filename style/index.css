@@ -151,7 +151,7 @@ header {
 .experience-main {
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 70px;
     padding: 20px 70px;
 
 }
@@ -219,4 +219,43 @@ header {
 
 .exp-10yrs span {
     font-size: 2.5em;
+}
+
+/* ---some-facts-section-- */
+
+.some-facts-main {
+    padding: 70px 100px;
+
+}
+
+.some-facts-content {
+    font-size: 3rem;
+    margin-bottom: 20px;
+
+}
+
+.facts-layout {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+
+
+}
+
+.common {
+    text-align: center;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+
+
+}
+
+.common h2 {
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 5px 0;
 }
