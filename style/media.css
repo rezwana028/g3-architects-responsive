@@ -57,6 +57,35 @@
         margin-bottom: 30px;
     }
 
+    /* ----experience-section-- */
+
+    .experience-main {
+        padding: 20px 50px;
+        flex-direction: column;
+
+    }
+
+    .experience-heading {
+        font-size: 2.25rem;
+
+    }
+
+    .experience-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .exp-10yrs {
+        bottom: 70px;
+        left: -30px;
+        padding: 30px;
+
+    }
+
+
+
+
+
 
 
 
@@ -118,6 +147,30 @@
         margin-bottom: 20px;
     }
 
+    /* ----experience-section-- */
+
+    .experience-main {
+        padding: 20px 60px;
+        flex-direction: column;
+
+    }
+
+    .experience-heading {
+        font-size: 2.5rem;
+
+    }
+
+    .experience-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .exp-10yrs {
+        padding: 38px;
+
+    }
+
+
 
 
 }
@@ -156,6 +209,31 @@
         font-size: 2.75rem;
         margin-bottom: 25px;
     }
+
+    /* ----experience-section-- */
+
+    .experience-main {
+        padding: 20px 60px;
+
+    }
+
+    .experience-heading {
+        font-size: 2.75rem;
+
+    }
+
+    .experience-img {
+        width: 400px;
+        height: 700px;
+    }
+
+    .exp-10yrs {
+        bottom: 70px;
+        left: -30px;
+        padding: 45px;
+
+    }
+
 
 
 

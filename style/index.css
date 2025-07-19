@@ -206,7 +206,7 @@ header {
     position: relative;
     bottom: 70px;
     left: -30px;
-    padding: 40px 40px;
+    padding: 50px 50px;
     color: white;
     background-color: #FF900E;
     border: none;
@@ -218,5 +218,5 @@ header {
 
 
 .exp-10yrs span {
-    font-size: 2em;
+    font-size: 2.5em;
 }
