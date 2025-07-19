@@ -145,3 +145,78 @@ header {
 .features-span {
     color: #FF900E;
 }
+
+/* ----experience-section-- */
+
+.experience-main {
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 20px 70px;
+
+}
+
+.complex {
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+
+}
+
+.experience-span-div {
+    height: 110px;
+    width: 5px;
+    background-color: #FF900E;
+    border-radius: 5px;
+}
+
+.experience-heading {
+    font-size: 3rem;
+
+}
+
+.experience-content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+}
+
+.exp-topic {
+    padding: 10px 30px;
+    box-shadow: 3px 3px 10px rgba(128, 128, 128, 0.413);
+    border-radius: 8px;
+
+
+}
+
+.exp-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+
+}
+
+.experience-img {
+    width: 600px;
+    height: 900px;
+    /* height: 100%; */
+}
+
+.exp-10yrs {
+    position: relative;
+    bottom: 70px;
+    left: -30px;
+    padding: 40px 40px;
+    color: white;
+    background-color: #FF900E;
+    border: none;
+    border-radius: 8px;
+
+
+}
+
+
+
+.exp-10yrs span {
+    font-size: 2em;
+}
